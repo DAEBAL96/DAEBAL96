@@ -23,8 +23,13 @@
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=FFFFFF"/></a>
     <img src="https://img.shields.io/badge/LSTM-C70D2C?style=flat-square&&logoColor=FFFFFF"/></a>
     <img src="https://img.shields.io/badge/YOLO(v5, v8)-eb5312?style=flat-square&&logoColor=FFFFFF"/></a>
+    
 </p>
 
+<<<<<<< HEAD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAEBAL96&layout=compact&exclude_repo=cheese10yun.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAEBAL96&show_icons=true&theme=radical)
+=======
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAEBAL96&show_icons=true&theme=radical)
+>>>>>>> a4901098fdf91dca2b7c1c9d69d5ea2bf893e1ae
