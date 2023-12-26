@@ -1,4 +1,4 @@
-### 👋About me
+## 👋About me
 
 <p>
 <a href="https://bitter-booth-f03.notion.site/Dae-Geun-Heo-_-CV-5d76b0f0c6b245b3a1867578901f3d21?pvs=4" target="_blank"><img src="https://img.shields.io/badge/DaegeunHeo-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
@@ -12,7 +12,7 @@
     I hope the system I make to make our lives better.🤓<br/>
 </p>
 
-### 🛠️Skills
+## 🛠️Skills
 #### has been used <b>Languages & Tools</b>
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
@@ -24,5 +24,7 @@
     <img src="https://img.shields.io/badge/LSTM-C70D2C?style=flat-square&&logoColor=FFFFFF"/></a>
     <img src="https://img.shields.io/badge/YOLO(v5, v8)-eb5312?style=flat-square&&logoColor=FFFFFF"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAEBAL96&layout=compact&exclude_repo=cheese10yun.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAEBAL96&show_icons=true&theme=radical)
