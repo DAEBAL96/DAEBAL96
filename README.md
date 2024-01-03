@@ -26,7 +26,7 @@
     
 </p>
 
-[![Daegeun's most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAEBAL96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Daegeun's most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAEBAL96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![Daegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAEBAL96&show_icons=true&theme=radical)
 
