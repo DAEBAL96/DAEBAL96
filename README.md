@@ -1,7 +1,7 @@
 ## 👋About me
 
 <p>
-<a href="https://bitter-booth-f03.notion.site/Dae-Geun-Heo-_-CV-5d76b0f0c6b245b3a1867578901f3d21?pvs=4" target="_blank"><img src="https://img.shields.io/badge/DaegeunHeo-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://bitter-booth-f03.notion.site/7138dee535c54629bb6e74b5827b18bb?pvs=4" target="_blank"><img src="https://img.shields.io/badge/DaegeunHeo-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://daebal.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=0000"/></a>
 <a href="https://www.instagram.com/geun_h/" target="_blank"><img src="https://img.shields.io/badge/Personal log-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="mailto:hdkyon95@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/hdkyon95@gmail.com-4285F4?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
